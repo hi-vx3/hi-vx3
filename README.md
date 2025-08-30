@@ -150,10 +150,10 @@ console.log("Welcome to my digital space! 🚀");
 ### 📈 **Productivity Metrics**
 
 ```text
-🔥 Consecutive Days   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
-💻 Completed Projects 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
-⭐ GitHub Stars       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
-🔀 Pull Requests      🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪  89
+ 🔥 Consecutive Days   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
+ 💻 Completed Projects 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
+ ⭐ GitHub Stars       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
+ 🔀 Pull Requests      🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪  89
 ```
 
 </div>
