@@ -23,12 +23,11 @@
 const sami = {
     name: "Sami",
     location: "🇸🇦 Saudi Arabia",
-    role: "Backend Developer",
+    role: "Software Engineer",
     mission: "Building advanced backend systems for the Arab world",
     fuel: "Saudi Coffee",
     codingTime: "Evening till dawn",
-    hobbies: ["Coding", "Chess", "Reading"],
-    contact: "sami@example.com",
+    contact: "https://hi-vx3.github.io/links/",
     vision: "Contributing to Saudi Vision 2030"
 };
 
@@ -134,11 +133,11 @@ console.log("Welcome to my digital space! 🚀");
 ### 🔥 **Active Coding Time**
 
 ```text
-🐍 Python       ████████████████████ 45.2% 
-🟨 JavaScript   ███████████████░░░░░ 32.1%
-☕ Java         █████████░░░░░░░░░░░ 15.3%
-🐘 PHP          ████░░░░░░░░░░░░░░░░  5.8%
-🔧 Other        ██░░░░░░░░░░░░░░░░░░  1.6%
+🟨 JavaScript  ████████████████████ 45.2% 
+🐘 PHP         ███████████████░░░░░ 32.1%
+🐍 Python      █████████░░░░░░░░░░░ 15.3%
+☕ Java         ████░░░░░░░░░░░░░░░░  5.8%
+🔧 Other       ██░░░░░░░░░░░░░░░░░░  1.6%
 ```
 
 </div>
@@ -151,9 +150,9 @@ console.log("Welcome to my digital space! 🚀");
 ### 📈 **Productivity Metrics**
 
 ```text
-🔥 Consecutive Days   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 127
-💻 Completed Projects 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  85%
-⭐ GitHub Stars       🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜  456
+🔥 Consecutive Days   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
+💻 Completed Projects 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜  50%
+⭐ GitHub Stars       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  0
 🔀 Pull Requests      🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪  89
 ```
 
@@ -167,7 +166,7 @@ console.log("Welcome to my digital space! 🚀");
 
 <div align="center">
 
-## 🎯 **2024 Roadmap** 🎯
+## 🎯 **2025 Roadmap** 🎯
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,3,4,5,6,7,8,9,10,11,12&height=200&section=header&text=Development%20Journey&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
@@ -240,35 +239,13 @@ console.log("Welcome to my digital space! 🚀");
 
 ## 🌍 **Connect With Me** 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sami)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/sami)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/sami)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/sami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sami@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://sami-dev.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/sami)
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/sami_dev)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 **Personal Message** 🌟
-
-### 💝 **For New Developers**
-
-Welcome to the coding world.
-Don’t fear mistakes, they are part of learning.
-Start small and keep building.
-**Remember:** Every expert was once a beginner.
-
-### 🌍 **For the Arab Tech Community**
-
-We need more Arab developers contributing to open source.
-Together, we build a stronger digital future.
-**Let’s make a difference!** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:progsami@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://hi-vx3.github.io/links/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/708070985412247644)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/hi_vx3)
 
 </div>
 
