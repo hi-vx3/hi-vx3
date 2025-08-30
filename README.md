@@ -133,7 +133,7 @@ console.log("Welcome to my digital space! 🚀");
 ### 🔥 **Active Coding Time**
 
 ```text
-🟨 JavaScript  ████████████████████ 45.2% 
+🟨 JavaScript   ████████████████████ 45.2% 
 🐘 PHP         ███████████████░░░░░ 32.1%
 🐍 Python      █████████░░░░░░░░░░░ 15.3%
 ☕ Java         ████░░░░░░░░░░░░░░░░  5.8%
